@@ -1,6 +1,6 @@
 # Docker Exercices 
 
-!['Project Status'](https://img.shields.io/badge/Project%20Status-On hold-orange)
+!['Project Status'](https://img.shields.io/badge/Project%20Status-On_Hold-red)
 !['Last Commit'](https://img.shields.io/github/last-commit/ismael616/Docker-TP)
 
 
